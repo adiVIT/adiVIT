@@ -13,9 +13,7 @@ I'm always up for exploring the latest technologies and turning my ideas into re
 - **AI/ML**: LLaMA model, Data Processing
 - **Version Control**: Git, GitHub
 
-### 📫 How to reach me:
-- LinkedIn: [Aditya Bajaj](https://www.linkedin.com/in/aditya-bajaj-vellore/)
-- Email: bajaj.aditya@example.com
+
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
