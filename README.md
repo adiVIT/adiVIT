@@ -23,7 +23,11 @@ I'm always up for exploring the latest technologies and turning my ideas into re
 🌱 I'm learning Generative AI models
 📱 Flutter developer
 🎯 Focused on backend and AI
+
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adiVIT&layout=compact)
+
+
 ### 🌐 Connect with Me:
 [![Portfolio](https://img.shields.io/badge/Portfolio-Click%20Here-brightgreen?style=for-the-badge)](https://portfolio-eight-zeta-24.vercel.app/)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aditya-bajaj-vellore/)
