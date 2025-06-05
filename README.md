@@ -35,20 +35,6 @@ I thrive at the intersection of **tech, creativity, and real-world impact**. Whe
 
 ---
 
-### 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adiVIT&show_icons=true&theme=radical" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=adiVIT&theme=radical&date_format=M%20j%5B%2C%20Y%5D" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adiVIT&layout=compact&theme=radical" width="49%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adiVIT&theme=radical" width="100%" />
-</p>
-
----
-
 ### 🌐 Connect with Me  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Click%20Here-brightgreen?style=for-the-badge)](https://portfolio-eight-zeta-24.vercel.app/)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aditya-bajaj-6128811b6/)
